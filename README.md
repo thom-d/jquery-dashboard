@@ -6,6 +6,8 @@ Apartment marketplace app with city filtering, and rendering JSON data using AJA
 
 jQuery: http://jquery.com/
 
+json: https://api.myjson.com/bins/2sadq?pretty=1
+
 Bootstrap: http://getbootstrap.com/
 
 Arrays: http://www.w3schools.com/js/js_arrays.asp
