@@ -1,4 +1,4 @@
-I completed this project as a part of the One Month jQuery course on onemonth.com. This project was a improved my jquery skills and introduced me to using AJAX and JSON!
+I completed this project as a part of the One Month jQuery course on onemonth.com. This project allowed me to improved my jquery skills and introduced me to using AJAX and JSON!
 
 # Project 4: Launch Pads
 
